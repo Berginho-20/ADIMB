@@ -1,0 +1,1 @@
+ADIMB é um programa de gereciamento de academia, onde vamos gerenciar todas as informaões dos alunos da academia de artes marciais. Vai ser usado o python como linguagem principal e o SQLite como fonte Banco de Dados, onde no python possui uma biblioteca que já instala o SQLite.
